@@ -1,0 +1,62 @@
+﻿@{
+    ViewBag.Title = "Create";
+}
+
+<h2>Create</h2>
+
+@if (ViewBag.Message != null)
+{
+    if (ViewBag.status == "success")
+    {
+        <div class="alert alert-success">
+            @ViewBag.Message
+        </div>
+    }
+    else
+    {
+        <div class="alert alert-danger">
+            @ViewBag.Message
+        </div>
+    }
+}
+
+<form method="post">
+    <div class="form-group">
+        <label>Number</label>
+        <input type="number" class="form-control" id="ID" name="Id" />
+    </div>
+    <div class="form-group">
+        <label> Name</label>
+        <input type="text" class="form-control" id="Name" name="Name" />
+    </div>
+    <div class="form-group">
+        <label>Gender</label>
+        <div>
+            <input type="radio" id="male" name="Gender" value="Male" />
+            <label for="male">Male</label>
+        </div>
+        <div>
+            <input type="radio" id="female" name="Gender" value="Female" />
+            <label for="female">Female</label>
+        </div>
+    </div>
+    <div class="form-group">
+        <label>Category</label>
+        <select id="Category" name="Category" class="form-control">
+            <option value="Electronics">Electronics</option>
+            <option value="Books">Books</option>
+            <option value="Clothing">Clothing</option>
+            <option value="HomeAppliances">Home Appliances</option>
+        </select>
+    </div>
+    <div class="form-group">
+        <label>Preferences</label>
+        <div id="preferences-dropdown" class="form-control" style="height: auto;">
+            <label><input type="checkbox" name="Preferences" value="HighQuality"> High Quality</label><br>
+            <label><input type="checkbox" name="Preferences" value="Affordable"> Affordable</label><br>
+            <label><input type="checkbox" name="Preferences" value="BrandName"> Brand Name</label><br>
+            <label><input type="checkbox" name="Preferences" value="EcoFriendly"> Eco-Friendly</label><br>
+        </div>
+    </div>
+    <button class="btn btn-success" type="submit">Save</button>
+</form>
