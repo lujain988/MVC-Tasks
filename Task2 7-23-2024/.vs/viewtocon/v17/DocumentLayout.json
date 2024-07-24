@@ -116,7 +116,7 @@
               "RelativeDocumentMoniker": "viewtocon\\Views\\Category\\Create.cshtml",
               "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC-Tasks\\Task2 7-23-2024\\viewtocon\\Views\\Category\\Create.cshtml",
               "RelativeToolTip": "viewtocon\\Views\\Category\\Create.cshtml",
-              "ViewState": "AQIAAB0AAAAAAAAAAAAqwC8AAAA2AAAA",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAADYAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-07-23T08:32:01.629Z",
               "EditorCaption": ""
@@ -127,11 +127,12 @@
               "Title": "CategoryController.cs",
               "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC-Tasks\\Task2 7-23-2024\\viewtocon\\Controllers\\CategoryController.cs",
               "RelativeDocumentMoniker": "viewtocon\\Controllers\\CategoryController.cs",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC-Tasks\\Task2 7-23-2024\\viewtocon\\Controllers\\CategoryController.cs",
-              "RelativeToolTip": "viewtocon\\Controllers\\CategoryController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAAAAAAA",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC-Tasks\\Task2 7-23-2024\\viewtocon\\Controllers\\CategoryController.cs*",
+              "RelativeToolTip": "viewtocon\\Controllers\\CategoryController.cs*",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAQwCIAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-23T08:31:16.018Z"
+              "WhenOpened": "2024-07-23T08:31:16.018Z",
+              "EditorCaption": ""
             }
           ]
         }

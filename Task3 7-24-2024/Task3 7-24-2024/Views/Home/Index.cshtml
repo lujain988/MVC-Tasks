@@ -1,0 +1,29 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<main>
+    <div class="jumbotron text-center">
+        <h1>Welcome to Our Application</h1>
+        <p class="lead">This is the home page of your ASP.NET MVC application.</p>
+        <p><a class="btn btn-primary btn-lg" href="@Url.Action("About", "Home")" role="button">Learn more</a></p>
+    </div>
+
+    <div class="row">
+        <div class="col-md-4">
+            <h2>Feature 1</h2>
+            <p>Details about the first feature of your application.</p>
+            <p><a class="btn btn-secondary" href="@Url.Action("Feature1", "Home")" role="button">View details »</a></p>
+        </div>
+        <div class="col-md-4">
+            <h2>Feature 2</h2>
+            <p>Details about the second feature of your application.</p>
+            <p><a class="btn btn-secondary" href="@Url.Action("Feature2", "Home")" role="button">View details »</a></p>
+        </div>
+        <div class="col-md-4">
+            <h2>Feature 3</h2>
+            <p>Details about the third feature of your application.</p>
+            <p><a class="btn btn-secondary" href="@Url.Action("Feature3", "Home")" role="button">View details »</a></p>
+        </div>
+    </div>
+</main>

@@ -3,8 +3,7 @@ using System.Web.Mvc;
 
 public class CategoryController : Controller
 {
-    // Simulating a database with a static list
-    private static List<Dictionary<string, object>> Items = new List<Dictionary<string, object>>();
+    private static List<Dictionary<string, object>> Contacts = new List<Dictionary<string, object>>();
 
     [HttpGet]
     public ActionResult Create()
@@ -13,24 +12,23 @@ public class CategoryController : Controller
     }
 
     [HttpPost]
-    public ActionResult Create(int? ID, string Name, string Gender, string Category, string[] Preferences)
+    public ActionResult Create(string Name, string Email, string PhoneNumber, string Subject, string Message)
     {
-        if (ID.HasValue && !string.IsNullOrEmpty(Name) && !string.IsNullOrEmpty(Gender) && !string.IsNullOrEmpty(Category) && Preferences != null)
+        if (!string.IsNullOrEmpty(Name) && !string.IsNullOrEmpty(Email) && !string.IsNullOrEmpty(PhoneNumber) && !string.IsNullOrEmpty(Subject) && !string.IsNullOrEmpty(Message))
         {
-            var item = new Dictionary<string, object>
+            var contact = new Dictionary<string, object>
             {
-                { "ID", ID },
                 { "Name", Name },
-                { "Gender", Gender },
-                { "Category", Category },
-                { "Preferences", Preferences }
+                { "Email", Email },
+                { "PhoneNumber", PhoneNumber },
+                { "Subject", Subject },
+                { "Message", Message }
             };
 
-            Items.Add(item);
-            ViewBag.Message = "Answer has been added";
+            Contacts.Add(contact);
+            ViewBag.Message = "Your message has been sent successfully.";
             ViewBag.status = "success";
-            return RedirectToAction("Display", new { id = ID, name = Name, gender = Gender, category = Category, preferences = string.Join(",", Preferences) });
-
+            return RedirectToAction("Display", new { name = Name, email = Email, phoneNumber = PhoneNumber, subject = Subject, message = Message });
         }
         else
         {
@@ -42,13 +40,13 @@ public class CategoryController : Controller
     }
 
     [HttpGet]
-    public ActionResult Display(int? id, string name, string gender, string category, string preferences)
+    public ActionResult Display(string name, string email, string phoneNumber, string subject, string message)
     {
-        ViewBag.ID = id;
         ViewBag.Name = name;
-        ViewBag.Gender = gender;
-        ViewBag.Category = category;
-        ViewBag.Preferences = preferences?.Split(',') ?? new string[0];
+        ViewBag.Email = email;
+        ViewBag.PhoneNumber = phoneNumber;
+        ViewBag.Subject = subject;
+        ViewBag.Message = message;
         return View();
     }
 }

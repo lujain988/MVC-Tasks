@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Orange\\source\\repos\\Task3 7-24-2024\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{35C4F278-38CE-4830-B4A8-00DC70F7AD61}|Task3 7-24-2024\\Task3 7-24-2024.csproj|c:\\users\\orange\\source\\repos\\task3 7-24-2024\\task3 7-24-2024\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{35C4F278-38CE-4830-B4A8-00DC70F7AD61}|Task3 7-24-2024\\Task3 7-24-2024.csproj|solutionrelative:task3 7-24-2024\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35C4F278-38CE-4830-B4A8-00DC70F7AD61}|Task3 7-24-2024\\Task3 7-24-2024.csproj|c:\\users\\orange\\source\\repos\\task3 7-24-2024\\task3 7-24-2024\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35C4F278-38CE-4830-B4A8-00DC70F7AD61}|Task3 7-24-2024\\Task3 7-24-2024.csproj|solutionrelative:task3 7-24-2024\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35C4F278-38CE-4830-B4A8-00DC70F7AD61}|Task3 7-24-2024\\Task3 7-24-2024.csproj|c:\\users\\orange\\source\\repos\\task3 7-24-2024\\task3 7-24-2024\\views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{35C4F278-38CE-4830-B4A8-00DC70F7AD61}|Task3 7-24-2024\\Task3 7-24-2024.csproj|solutionrelative:task3 7-24-2024\\views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35C4F278-38CE-4830-B4A8-00DC70F7AD61}|Task3 7-24-2024\\Task3 7-24-2024.csproj|c:\\users\\orange\\source\\repos\\task3 7-24-2024\\task3 7-24-2024\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35C4F278-38CE-4830-B4A8-00DC70F7AD61}|Task3 7-24-2024\\Task3 7-24-2024.csproj|solutionrelative:task3 7-24-2024\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35C4F278-38CE-4830-B4A8-00DC70F7AD61}|Task3 7-24-2024\\Task3 7-24-2024.csproj|c:\\users\\orange\\source\\repos\\task3 7-24-2024\\task3 7-24-2024\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{35C4F278-38CE-4830-B4A8-00DC70F7AD61}|Task3 7-24-2024\\Task3 7-24-2024.csproj|solutionrelative:task3 7-24-2024\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35C4F278-38CE-4830-B4A8-00DC70F7AD61}|Task3 7-24-2024\\Task3 7-24-2024.csproj|c:\\users\\orange\\source\\repos\\task3 7-24-2024\\task3 7-24-2024\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{35C4F278-38CE-4830-B4A8-00DC70F7AD61}|Task3 7-24-2024\\Task3 7-24-2024.csproj|solutionrelative:task3 7-24-2024\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35C4F278-38CE-4830-B4A8-00DC70F7AD61}|Task3 7-24-2024\\Task3 7-24-2024.csproj|c:\\users\\orange\\source\\repos\\task3 7-24-2024\\task3 7-24-2024\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{35C4F278-38CE-4830-B4A8-00DC70F7AD61}|Task3 7-24-2024\\Task3 7-24-2024.csproj|solutionrelative:task3 7-24-2024\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35C4F278-38CE-4830-B4A8-00DC70F7AD61}|Task3 7-24-2024\\Task3 7-24-2024.csproj|c:\\users\\orange\\source\\repos\\task3 7-24-2024\\task3 7-24-2024\\views\\home\\ourstory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{35C4F278-38CE-4830-B4A8-00DC70F7AD61}|Task3 7-24-2024\\Task3 7-24-2024.csproj|solutionrelative:task3 7-24-2024\\views\\home\\ourstory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35C4F278-38CE-4830-B4A8-00DC70F7AD61}|Task3 7-24-2024\\Task3 7-24-2024.csproj|c:\\users\\orange\\source\\repos\\task3 7-24-2024\\task3 7-24-2024\\content\\custom.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{35C4F278-38CE-4830-B4A8-00DC70F7AD61}|Task3 7-24-2024\\Task3 7-24-2024.csproj|solutionrelative:task3 7-24-2024\\content\\custom.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d84ee353-0bef-5a41-a649-8f89aca5d84d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\Task3 7-24-2024\\Task3 7-24-2024\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "Task3 7-24-2024\\Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\source\\repos\\Task3 7-24-2024\\Task3 7-24-2024\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "Task3 7-24-2024\\Views\\Home\\About.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-24T14:54:52.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\Task3 7-24-2024\\Task3 7-24-2024\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "Task3 7-24-2024\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\source\\repos\\Task3 7-24-2024\\Task3 7-24-2024\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "Task3 7-24-2024\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAADQAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-24T14:28:37.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\Task3 7-24-2024\\Task3 7-24-2024\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Task3 7-24-2024\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\source\\repos\\Task3 7-24-2024\\Task3 7-24-2024\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Task3 7-24-2024\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-24T14:25:48.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\Task3 7-24-2024\\Task3 7-24-2024\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Task3 7-24-2024\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Orange\\source\\repos\\Task3 7-24-2024\\Task3 7-24-2024\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Task3 7-24-2024\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAcwBwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T14:24:08.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OurStory.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\Task3 7-24-2024\\Task3 7-24-2024\\Views\\Home\\OurStory.cshtml",
+              "RelativeDocumentMoniker": "Task3 7-24-2024\\Views\\Home\\OurStory.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\source\\repos\\Task3 7-24-2024\\Task3 7-24-2024\\Views\\Home\\OurStory.cshtml",
+              "RelativeToolTip": "Task3 7-24-2024\\Views\\Home\\OurStory.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-24T14:24:01.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\Task3 7-24-2024\\Task3 7-24-2024\\Views\\login\\Login.cshtml",
+              "RelativeDocumentMoniker": "Task3 7-24-2024\\Views\\login\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\source\\repos\\Task3 7-24-2024\\Task3 7-24-2024\\Views\\login\\Login.cshtml",
+              "RelativeToolTip": "Task3 7-24-2024\\Views\\login\\Login.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-24T14:22:19.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "loginController.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\Task3 7-24-2024\\Task3 7-24-2024\\Controllers\\loginController.cs",
+              "RelativeDocumentMoniker": "Task3 7-24-2024\\Controllers\\loginController.cs",
+              "ToolTip": "C:\\Users\\Orange\\source\\repos\\Task3 7-24-2024\\Task3 7-24-2024\\Controllers\\loginController.cs",
+              "RelativeToolTip": "Task3 7-24-2024\\Controllers\\loginController.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAowDMAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T14:21:41.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "custom.css",
+              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\Task3 7-24-2024\\Task3 7-24-2024\\Content\\custom.css",
+              "RelativeDocumentMoniker": "Task3 7-24-2024\\Content\\custom.css",
+              "ToolTip": "C:\\Users\\Orange\\source\\repos\\Task3 7-24-2024\\Task3 7-24-2024\\Content\\custom.css",
+              "RelativeToolTip": "Task3 7-24-2024\\Content\\custom.css",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAADUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-07-24T14:12:43.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\Task3 7-24-2024\\Task3 7-24-2024\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Task3 7-24-2024\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\source\\repos\\Task3 7-24-2024\\Task3 7-24-2024\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Task3 7-24-2024\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAkwCUAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-24T14:09:55.473Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

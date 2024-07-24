@@ -1,0 +1,84 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - My ASP.NET Application</title>
+    @Styles.Render("~/Content/css")
+    <link href="~/Content/custom.css" rel="stylesheet" />
+    @Scripts.Render("~/bundles/modernizr")
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg custom-navbar">
+        <div class="container">
+            @Html.ActionLink("Application Name", "Index", "Home", new { area = "" }, new { @class = "navbar-brand" })
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav ms-auto">
+                    <li class="nav-item">
+                        @Html.ActionLink("Home", "Index", "Home", new { area = "" }, new { @class = "nav-link" })
+                    </li>
+                    <li class="nav-item">
+                        @Html.ActionLink("About", "About", "Home", new { area = "" }, new { @class = "nav-link" })
+                    </li>
+                    <li class="nav-item">
+                        @Html.ActionLink("Contact", "Contact", "Home", new { area = "" }, new { @class = "nav-link" })
+                    </li>
+                    <li class="nav-item">
+                        @Html.ActionLink("Our Story", "OurStory", "Home", new { area = "" }, new { @class = "nav-link" })
+                    </li>
+                    @if (Session["Username"] != null)
+                    {
+                        <li class="nav-item">
+                            @Html.ActionLink("Logout", "Logout", "Login", new { area = "" }, new { @class = "nav-link" })
+                        </li>
+                    }
+                    else
+                    {
+                        <li class="nav-item">
+                            @Html.ActionLink("Login", "Login", "Login", new { area = "" }, new { @class = "nav-link" })
+                        </li>
+                    }
+                </ul>
+            </div>
+        </div>
+    </nav>
+    <div class="container body-content">
+        @RenderBody()
+        <hr />
+    </div>
+    <footer class="custom-footer">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-4">
+                    <h5>About Us</h5>
+                    <p>Information about the company.</p>
+                </div>
+                <div class="col-md-4">
+                    <h5>Contact Us</h5>
+                    <ul class="list-unstyled">
+                        <li>Email: info@example.com</li>
+                        <li>Phone: (123) 456-7890</li>
+                    </ul>
+                </div>
+                <div class="col-md-4">
+                    <h5>Follow Us</h5>
+                    <ul class="list-unstyled">
+                        <li><a href="#">Facebook</a></li>
+                        <li><a href="#">Twitter</a></li>
+                        <li><a href="#">LinkedIn</a></li>
+                    </ul>
+                </div>
+            </div>
+            <hr />
+            <p>&copy; @DateTime.Now.Year - My ASP.NET Application. All rights reserved.</p>
+        </div>
+    </footer>
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+</body>
+</html>
