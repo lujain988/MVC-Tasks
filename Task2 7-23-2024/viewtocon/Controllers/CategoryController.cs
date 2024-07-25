@@ -12,23 +12,24 @@ public class CategoryController : Controller
     }
 
     [HttpPost]
-    public ActionResult Create(string Name, string Email, string PhoneNumber, string Subject, string Message)
+    public ActionResult Create(int Number, string Name, string PhoneNumber, string Subject, string Message, string Gender, string Category, List<string> Preferences)
     {
-        if (!string.IsNullOrEmpty(Name) && !string.IsNullOrEmpty(Email) && !string.IsNullOrEmpty(PhoneNumber) && !string.IsNullOrEmpty(Subject) && !string.IsNullOrEmpty(Message))
+        if (Number > 0 && !string.IsNullOrEmpty(Name)  && !string.IsNullOrEmpty(Subject)  && !string.IsNullOrEmpty(Gender) && !string.IsNullOrEmpty(Category))
         {
             var contact = new Dictionary<string, object>
             {
+                { "Number", Number },
                 { "Name", Name },
-                { "Email", Email },
-                { "PhoneNumber", PhoneNumber },
                 { "Subject", Subject },
-                { "Message", Message }
+                { "Gender", Gender },
+                { "Category", Category },
+                { "Preferences", Preferences }
             };
 
             Contacts.Add(contact);
             ViewBag.Message = "Your message has been sent successfully.";
             ViewBag.status = "success";
-            return RedirectToAction("Display", new { name = Name, email = Email, phoneNumber = PhoneNumber, subject = Subject, message = Message });
+            return RedirectToAction("Display", new { number = Number, name = Name,  subject = Subject, gender = Gender, category = Category, preferences = string.Join(", ", Preferences) });
         }
         else
         {
@@ -40,13 +41,14 @@ public class CategoryController : Controller
     }
 
     [HttpGet]
-    public ActionResult Display(string name, string email, string phoneNumber, string subject, string message)
+    public ActionResult Display(int number, string name,  string subject,  string gender, string category, string preferences)
     {
+        ViewBag.Number = number;
         ViewBag.Name = name;
-        ViewBag.Email = email;
-        ViewBag.PhoneNumber = phoneNumber;
         ViewBag.Subject = subject;
-        ViewBag.Message = message;
+        ViewBag.Gender = gender;
+        ViewBag.Category = category;
+        ViewBag.Preferences = preferences;
         return View();
     }
 }

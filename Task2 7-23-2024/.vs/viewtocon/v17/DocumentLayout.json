@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Orange\\Desktop\\MVC-Tasks\\Task2 7-23-2024\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AF22138E-D864-4DB2-B736-B5BA47A50572}|viewtocon\\viewtocon.csproj|c:\\users\\orange\\desktop\\mvc-tasks\\task2 7-23-2024\\viewtocon\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AF22138E-D864-4DB2-B736-B5BA47A50572}|viewtocon\\viewtocon.csproj|solutionrelative:viewtocon\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AF22138E-D864-4DB2-B736-B5BA47A50572}|viewtocon\\viewtocon.csproj|C:\\Users\\Orange\\Desktop\\MVC-Tasks\\Task2 7-23-2024\\viewtocon\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AF22138E-D864-4DB2-B736-B5BA47A50572}|viewtocon\\viewtocon.csproj|c:\\users\\orange\\desktop\\mvc-tasks\\task2 7-23-2024\\viewtocon\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AF22138E-D864-4DB2-B736-B5BA47A50572}|viewtocon\\viewtocon.csproj|solutionrelative:viewtocon\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AF22138E-D864-4DB2-B736-B5BA47A50572}|viewtocon\\viewtocon.csproj|C:\\Users\\Orange\\Desktop\\MVC-Tasks\\Task2 7-23-2024\\viewtocon\\views\\category\\display.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{AF22138E-D864-4DB2-B736-B5BA47A50572}|viewtocon\\viewtocon.csproj|solutionrelative:viewtocon\\views\\category\\display.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF22138E-D864-4DB2-B736-B5BA47A50572}|viewtocon\\viewtocon.csproj|C:\\Users\\Orange\\Desktop\\MVC-Tasks\\Task2 7-23-2024\\viewtocon\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF22138E-D864-4DB2-B736-B5BA47A50572}|viewtocon\\viewtocon.csproj|solutionrelative:viewtocon\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AF22138E-D864-4DB2-B736-B5BA47A50572}|viewtocon\\viewtocon.csproj|C:\\Users\\Orange\\Desktop\\MVC-Tasks\\Task2 7-23-2024\\viewtocon\\views\\display.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -38,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,13 +50,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Display.cshtml",
               "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC-Tasks\\Task2 7-23-2024\\viewtocon\\Views\\Category\\Display.cshtml",
               "RelativeDocumentMoniker": "viewtocon\\Views\\Category\\Display.cshtml",
               "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC-Tasks\\Task2 7-23-2024\\viewtocon\\Views\\Category\\Display.cshtml",
               "RelativeToolTip": "viewtocon\\Views\\Category\\Display.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAWAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-07-23T18:00:32.719Z"
             },
@@ -80,7 +80,7 @@
               "RelativeDocumentMoniker": "viewtocon\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC-Tasks\\Task2 7-23-2024\\viewtocon\\Controllers\\HomeController.cs",
               "RelativeToolTip": "viewtocon\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-23T08:40:34.18Z"
             },
@@ -110,26 +110,25 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC-Tasks\\Task2 7-23-2024\\viewtocon\\Views\\Category\\Create.cshtml",
               "RelativeDocumentMoniker": "viewtocon\\Views\\Category\\Create.cshtml",
               "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC-Tasks\\Task2 7-23-2024\\viewtocon\\Views\\Category\\Create.cshtml",
               "RelativeToolTip": "viewtocon\\Views\\Category\\Create.cshtml",
-              "ViewState": "AQIAABAAAAAAAAAAAAAAADYAAAAnAAAA",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAuwCQAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-23T08:32:01.629Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-23T08:32:01.629Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "CategoryController.cs",
               "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC-Tasks\\Task2 7-23-2024\\viewtocon\\Controllers\\CategoryController.cs",
               "RelativeDocumentMoniker": "viewtocon\\Controllers\\CategoryController.cs",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC-Tasks\\Task2 7-23-2024\\viewtocon\\Controllers\\CategoryController.cs*",
-              "RelativeToolTip": "viewtocon\\Controllers\\CategoryController.cs*",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAQwCIAAAAMAAAA",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC-Tasks\\Task2 7-23-2024\\viewtocon\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "viewtocon\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAswBIAAAA4AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-23T08:31:16.018Z",
               "EditorCaption": ""
