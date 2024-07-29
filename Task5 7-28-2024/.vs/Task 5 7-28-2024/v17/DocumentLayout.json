@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Orange\\Desktop\\MVC-Tasks\\Task 5 7-28-2024\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F2FDF85D-0710-4AEF-A645-72DB24EC28CD}|Task 5 7-28-2024\\Task 5 7-28-2024.csproj|c:\\users\\orange\\desktop\\mvc-tasks\\task 5 7-28-2024\\task 5 7-28-2024\\views\\datastudents\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F2FDF85D-0710-4AEF-A645-72DB24EC28CD}|Task 5 7-28-2024\\Task 5 7-28-2024.csproj|solutionrelative:task 5 7-28-2024\\views\\datastudents\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2FDF85D-0710-4AEF-A645-72DB24EC28CD}|Task 5 7-28-2024\\Task 5 7-28-2024.csproj|C:\\Users\\Orange\\Desktop\\MVC-Tasks\\Task 5 7-28-2024\\task 5 7-28-2024\\views\\datastudents\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F2FDF85D-0710-4AEF-A645-72DB24EC28CD}|Task 5 7-28-2024\\Task 5 7-28-2024.csproj|solutionrelative:task 5 7-28-2024\\views\\datastudents\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2FDF85D-0710-4AEF-A645-72DB24EC28CD}|Task 5 7-28-2024\\Task 5 7-28-2024.csproj|C:\\Users\\Orange\\Desktop\\MVC-Tasks\\Task 5 7-28-2024\\task 5 7-28-2024\\views\\datastudents\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F2FDF85D-0710-4AEF-A645-72DB24EC28CD}|Task 5 7-28-2024\\Task 5 7-28-2024.csproj|solutionrelative:task 5 7-28-2024\\views\\datastudents\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2FDF85D-0710-4AEF-A645-72DB24EC28CD}|Task 5 7-28-2024\\Task 5 7-28-2024.csproj|C:\\Users\\Orange\\Desktop\\MVC-Tasks\\Task 5 7-28-2024\\task 5 7-28-2024\\views\\datastudents\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F2FDF85D-0710-4AEF-A645-72DB24EC28CD}|Task 5 7-28-2024\\Task 5 7-28-2024.csproj|solutionrelative:task 5 7-28-2024\\views\\datastudents\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2FDF85D-0710-4AEF-A645-72DB24EC28CD}|Task 5 7-28-2024\\Task 5 7-28-2024.csproj|C:\\Users\\Orange\\Desktop\\MVC-Tasks\\Task 5 7-28-2024\\task 5 7-28-2024\\views\\datastudents\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F2FDF85D-0710-4AEF-A645-72DB24EC28CD}|Task 5 7-28-2024\\Task 5 7-28-2024.csproj|solutionrelative:task 5 7-28-2024\\views\\datastudents\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2FDF85D-0710-4AEF-A645-72DB24EC28CD}|Task 5 7-28-2024\\Task 5 7-28-2024.csproj|C:\\Users\\Orange\\Desktop\\MVC-Tasks\\Task 5 7-28-2024\\task 5 7-28-2024\\controllers\\datastudentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2FDF85D-0710-4AEF-A645-72DB24EC28CD}|Task 5 7-28-2024\\Task 5 7-28-2024.csproj|solutionrelative:task 5 7-28-2024\\controllers\\datastudentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2FDF85D-0710-4AEF-A645-72DB24EC28CD}|Task 5 7-28-2024\\Task 5 7-28-2024.csproj|C:\\Users\\Orange\\Desktop\\MVC-Tasks\\Task 5 7-28-2024\\task 5 7-28-2024\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{F2FDF85D-0710-4AEF-A645-72DB24EC28CD}|Task 5 7-28-2024\\Task 5 7-28-2024.csproj|solutionrelative:task 5 7-28-2024\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2FDF85D-0710-4AEF-A645-72DB24EC28CD}|Task 5 7-28-2024\\Task 5 7-28-2024.csproj|C:\\Users\\Orange\\Desktop\\MVC-Tasks\\Task 5 7-28-2024\\task 5 7-28-2024\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{F2FDF85D-0710-4AEF-A645-72DB24EC28CD}|Task 5 7-28-2024\\Task 5 7-28-2024.csproj|solutionrelative:task 5 7-28-2024\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d84ee353-0bef-5a41-a649-8f89aca5d84d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC-Tasks\\Task 5 7-28-2024\\Task 5 7-28-2024\\Views\\datastudents\\Details.cshtml",
+              "RelativeDocumentMoniker": "Task 5 7-28-2024\\Views\\datastudents\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC-Tasks\\Task 5 7-28-2024\\Task 5 7-28-2024\\Views\\datastudents\\Details.cshtml",
+              "RelativeToolTip": "Task 5 7-28-2024\\Views\\datastudents\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-29T08:25:01.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC-Tasks\\Task 5 7-28-2024\\Task 5 7-28-2024\\Views\\datastudents\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Task 5 7-28-2024\\Views\\datastudents\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC-Tasks\\Task 5 7-28-2024\\Task 5 7-28-2024\\Views\\datastudents\\Delete.cshtml",
+              "RelativeToolTip": "Task 5 7-28-2024\\Views\\datastudents\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-29T08:25:00.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC-Tasks\\Task 5 7-28-2024\\Task 5 7-28-2024\\Views\\datastudents\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Task 5 7-28-2024\\Views\\datastudents\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC-Tasks\\Task 5 7-28-2024\\Task 5 7-28-2024\\Views\\datastudents\\Edit.cshtml",
+              "RelativeToolTip": "Task 5 7-28-2024\\Views\\datastudents\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-29T07:14:29.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC-Tasks\\Task 5 7-28-2024\\Task 5 7-28-2024\\Views\\datastudents\\Create.cshtml",
+              "RelativeDocumentMoniker": "Task 5 7-28-2024\\Views\\datastudents\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC-Tasks\\Task 5 7-28-2024\\Task 5 7-28-2024\\Views\\datastudents\\Create.cshtml",
+              "RelativeToolTip": "Task 5 7-28-2024\\Views\\datastudents\\Create.cshtml",
+              "ViewState": "AQIAACkAAAAAAAAAAAAqwCwAAAB2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-29T06:28:56.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC-Tasks\\Task 5 7-28-2024\\Task 5 7-28-2024\\Views\\datastudents\\Index.cshtml",
+              "RelativeDocumentMoniker": "Task 5 7-28-2024\\Views\\datastudents\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC-Tasks\\Task 5 7-28-2024\\Task 5 7-28-2024\\Views\\datastudents\\Index.cshtml",
+              "RelativeToolTip": "Task 5 7-28-2024\\Views\\datastudents\\Index.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAswC0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-28T19:03:52.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "datastudentsController.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC-Tasks\\Task 5 7-28-2024\\Task 5 7-28-2024\\Controllers\\datastudentsController.cs",
+              "RelativeDocumentMoniker": "Task 5 7-28-2024\\Controllers\\datastudentsController.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC-Tasks\\Task 5 7-28-2024\\Task 5 7-28-2024\\Controllers\\datastudentsController.cs",
+              "RelativeToolTip": "Task 5 7-28-2024\\Controllers\\datastudentsController.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAowDEAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T19:03:32.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC-Tasks\\Task 5 7-28-2024\\Task 5 7-28-2024\\Views\\Web.config",
+              "RelativeDocumentMoniker": "Task 5 7-28-2024\\Views\\Web.config",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC-Tasks\\Task 5 7-28-2024\\Task 5 7-28-2024\\Views\\Web.config",
+              "RelativeToolTip": "Task 5 7-28-2024\\Views\\Web.config",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-07-28T19:00:51.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC-Tasks\\Task 5 7-28-2024\\Task 5 7-28-2024\\Web.config",
+              "RelativeDocumentMoniker": "Task 5 7-28-2024\\Web.config",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC-Tasks\\Task 5 7-28-2024\\Task 5 7-28-2024\\Web.config",
+              "RelativeToolTip": "Task 5 7-28-2024\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEsAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-07-28T18:49:59.654Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
