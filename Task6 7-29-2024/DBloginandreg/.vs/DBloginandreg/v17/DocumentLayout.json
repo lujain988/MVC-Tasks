@@ -1,89 +1,89 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Orange\\source\\repos\\DBloginandreg\\",
+  "WorkspaceRootPath": "C:\\Users\\Orange\\Desktop\\MVC-Tasks\\Task6 7-29-2024\\DBloginandreg\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{601EC66E-9D3B-4673-BC77-34DB1287159A}|DBloginandreg\\DBloginandreg.csproj|c:\\users\\orange\\source\\repos\\dbloginandreg\\dbloginandreg\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{601EC66E-9D3B-4673-BC77-34DB1287159A}|DBloginandreg\\DBloginandreg.csproj|solutionrelative:dbloginandreg\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{601EC66E-9D3B-4673-BC77-34DB1287159A}|DBloginandreg\\DBloginandreg.csproj|C:\\Users\\Orange\\source\\repos\\DBloginandreg\\dbloginandreg\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{601EC66E-9D3B-4673-BC77-34DB1287159A}|DBloginandreg\\DBloginandreg.csproj|solutionrelative:dbloginandreg\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{601EC66E-9D3B-4673-BC77-34DB1287159A}|DBloginandreg\\DBloginandreg.csproj|c:\\users\\orange\\source\\repos\\dbloginandreg\\dbloginandreg\\views\\user\\resetpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{601EC66E-9D3B-4673-BC77-34DB1287159A}|DBloginandreg\\DBloginandreg.csproj|solutionrelative:dbloginandreg\\views\\user\\resetpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{601EC66E-9D3B-4673-BC77-34DB1287159A}|DBloginandreg\\DBloginandreg.csproj|C:\\Users\\Orange\\source\\repos\\DBloginandreg\\dbloginandreg\\views\\user\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{601EC66E-9D3B-4673-BC77-34DB1287159A}|DBloginandreg\\DBloginandreg.csproj|solutionrelative:dbloginandreg\\views\\user\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{601EC66E-9D3B-4673-BC77-34DB1287159A}|DBloginandreg\\DBloginandreg.csproj|C:\\Users\\Orange\\source\\repos\\DBloginandreg\\dbloginandreg\\views\\user\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{601EC66E-9D3B-4673-BC77-34DB1287159A}|DBloginandreg\\DBloginandreg.csproj|solutionrelative:dbloginandreg\\views\\user\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{601EC66E-9D3B-4673-BC77-34DB1287159A}|DBloginandreg\\DBloginandreg.csproj|c:\\users\\orange\\source\\repos\\dbloginandreg\\dbloginandreg\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{601EC66E-9D3B-4673-BC77-34DB1287159A}|DBloginandreg\\DBloginandreg.csproj|C:\\Users\\Orange\\Desktop\\MVC-Tasks\\Task6 7-29-2024\\DBloginandreg\\dbloginandreg\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{601EC66E-9D3B-4673-BC77-34DB1287159A}|DBloginandreg\\DBloginandreg.csproj|solutionrelative:dbloginandreg\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{601EC66E-9D3B-4673-BC77-34DB1287159A}|DBloginandreg\\DBloginandreg.csproj|C:\\Users\\Orange\\source\\repos\\DBloginandreg\\dbloginandreg\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{601EC66E-9D3B-4673-BC77-34DB1287159A}|DBloginandreg\\DBloginandreg.csproj|solutionrelative:dbloginandreg\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{601EC66E-9D3B-4673-BC77-34DB1287159A}|DBloginandreg\\DBloginandreg.csproj|C:\\Users\\Orange\\source\\repos\\DBloginandreg\\dbloginandreg\\views\\users\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{601EC66E-9D3B-4673-BC77-34DB1287159A}|DBloginandreg\\DBloginandreg.csproj|solutionrelative:dbloginandreg\\views\\users\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{601EC66E-9D3B-4673-BC77-34DB1287159A}|DBloginandreg\\DBloginandreg.csproj|C:\\Users\\Orange\\source\\repos\\DBloginandreg\\dbloginandreg\\views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{601EC66E-9D3B-4673-BC77-34DB1287159A}|DBloginandreg\\DBloginandreg.csproj|solutionrelative:dbloginandreg\\views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{601EC66E-9D3B-4673-BC77-34DB1287159A}|DBloginandreg\\DBloginandreg.csproj|C:\\Users\\Orange\\source\\repos\\DBloginandreg\\dbloginandreg\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{601EC66E-9D3B-4673-BC77-34DB1287159A}|DBloginandreg\\DBloginandreg.csproj|solutionrelative:dbloginandreg\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{601EC66E-9D3B-4673-BC77-34DB1287159A}|DBloginandreg\\DBloginandreg.csproj|C:\\Users\\Orange\\source\\repos\\DBloginandreg\\dbloginandreg\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{601EC66E-9D3B-4673-BC77-34DB1287159A}|DBloginandreg\\DBloginandreg.csproj|solutionrelative:dbloginandreg\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{601EC66E-9D3B-4673-BC77-34DB1287159A}|DBloginandreg\\DBloginandreg.csproj|C:\\Users\\Orange\\source\\repos\\DBloginandreg\\dbloginandreg\\models\\user.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{601EC66E-9D3B-4673-BC77-34DB1287159A}|DBloginandreg\\DBloginandreg.csproj|solutionrelative:dbloginandreg\\models\\user.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{601EC66E-9D3B-4673-BC77-34DB1287159A}|DBloginandreg\\DBloginandreg.csproj|C:\\Users\\Orange\\source\\repos\\DBloginandreg\\dbloginandreg\\views\\user\\addoredit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{601EC66E-9D3B-4673-BC77-34DB1287159A}|DBloginandreg\\DBloginandreg.csproj|solutionrelative:dbloginandreg\\views\\user\\addoredit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{601EC66E-9D3B-4673-BC77-34DB1287159A}|DBloginandreg\\DBloginandreg.csproj|c:\\users\\orange\\source\\repos\\dbloginandreg\\dbloginandreg\\views\\users\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{601EC66E-9D3B-4673-BC77-34DB1287159A}|DBloginandreg\\DBloginandreg.csproj|solutionrelative:dbloginandreg\\views\\users\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{601EC66E-9D3B-4673-BC77-34DB1287159A}|DBloginandreg\\DBloginandreg.csproj|C:\\Users\\Orange\\source\\repos\\DBloginandreg\\dbloginandreg\\models\\user.tt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{601EC66E-9D3B-4673-BC77-34DB1287159A}|DBloginandreg\\DBloginandreg.csproj|solutionrelative:dbloginandreg\\models\\user.tt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{601EC66E-9D3B-4673-BC77-34DB1287159A}|DBloginandreg\\DBloginandreg.csproj|C:\\Users\\Orange\\source\\repos\\DBloginandreg\\dbloginandreg\\models\\user1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{601EC66E-9D3B-4673-BC77-34DB1287159A}|DBloginandreg\\DBloginandreg.csproj|solutionrelative:dbloginandreg\\models\\user1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{601EC66E-9D3B-4673-BC77-34DB1287159A}|DBloginandreg\\DBloginandreg.csproj|C:\\Users\\Orange\\source\\repos\\DBloginandreg\\dbloginandreg\\views\\users\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{601EC66E-9D3B-4673-BC77-34DB1287159A}|DBloginandreg\\DBloginandreg.csproj|solutionrelative:dbloginandreg\\views\\users\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{601EC66E-9D3B-4673-BC77-34DB1287159A}|DBloginandreg\\DBloginandreg.csproj|C:\\Users\\Orange\\source\\repos\\DBloginandreg\\dbloginandreg\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{601EC66E-9D3B-4673-BC77-34DB1287159A}|DBloginandreg\\DBloginandreg.csproj|C:\\Users\\Orange\\Desktop\\MVC-Tasks\\Task6 7-29-2024\\DBloginandreg\\dbloginandreg\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{601EC66E-9D3B-4673-BC77-34DB1287159A}|DBloginandreg\\DBloginandreg.csproj|solutionrelative:dbloginandreg\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{601EC66E-9D3B-4673-BC77-34DB1287159A}|DBloginandreg\\DBloginandreg.csproj|C:\\Users\\Orange\\source\\repos\\DBloginandreg\\dbloginandreg\\models\\user.edmx.diagram||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{601EC66E-9D3B-4673-BC77-34DB1287159A}|DBloginandreg\\DBloginandreg.csproj|C:\\Users\\Orange\\Desktop\\MVC-Tasks\\Task6 7-29-2024\\DBloginandreg\\dbloginandreg\\views\\user\\resetpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{601EC66E-9D3B-4673-BC77-34DB1287159A}|DBloginandreg\\DBloginandreg.csproj|solutionrelative:dbloginandreg\\views\\user\\resetpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{601EC66E-9D3B-4673-BC77-34DB1287159A}|DBloginandreg\\DBloginandreg.csproj|C:\\Users\\Orange\\Desktop\\MVC-Tasks\\Task6 7-29-2024\\DBloginandreg\\dbloginandreg\\views\\user\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{601EC66E-9D3B-4673-BC77-34DB1287159A}|DBloginandreg\\DBloginandreg.csproj|solutionrelative:dbloginandreg\\views\\user\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{601EC66E-9D3B-4673-BC77-34DB1287159A}|DBloginandreg\\DBloginandreg.csproj|C:\\Users\\Orange\\Desktop\\MVC-Tasks\\Task6 7-29-2024\\DBloginandreg\\dbloginandreg\\views\\user\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{601EC66E-9D3B-4673-BC77-34DB1287159A}|DBloginandreg\\DBloginandreg.csproj|solutionrelative:dbloginandreg\\views\\user\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{601EC66E-9D3B-4673-BC77-34DB1287159A}|DBloginandreg\\DBloginandreg.csproj|c:\\users\\orange\\desktop\\mvc-tasks\\task6 7-29-2024\\dbloginandreg\\dbloginandreg\\models\\user.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{601EC66E-9D3B-4673-BC77-34DB1287159A}|DBloginandreg\\DBloginandreg.csproj|solutionrelative:dbloginandreg\\models\\user.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{601EC66E-9D3B-4673-BC77-34DB1287159A}|DBloginandreg\\DBloginandreg.csproj|c:\\users\\orange\\desktop\\mvc-tasks\\task6 7-29-2024\\dbloginandreg\\dbloginandreg\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{601EC66E-9D3B-4673-BC77-34DB1287159A}|DBloginandreg\\DBloginandreg.csproj|solutionrelative:dbloginandreg\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{601EC66E-9D3B-4673-BC77-34DB1287159A}|DBloginandreg\\DBloginandreg.csproj|C:\\Users\\Orange\\Desktop\\MVC-Tasks\\Task6 7-29-2024\\DBloginandreg\\dbloginandreg\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{601EC66E-9D3B-4673-BC77-34DB1287159A}|DBloginandreg\\DBloginandreg.csproj|solutionrelative:dbloginandreg\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{601EC66E-9D3B-4673-BC77-34DB1287159A}|DBloginandreg\\DBloginandreg.csproj|C:\\Users\\Orange\\Desktop\\MVC-Tasks\\Task6 7-29-2024\\DBloginandreg\\dbloginandreg\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{601EC66E-9D3B-4673-BC77-34DB1287159A}|DBloginandreg\\DBloginandreg.csproj|solutionrelative:dbloginandreg\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{601EC66E-9D3B-4673-BC77-34DB1287159A}|DBloginandreg\\DBloginandreg.csproj|C:\\Users\\Orange\\Desktop\\MVC-Tasks\\Task6 7-29-2024\\DBloginandreg\\dbloginandreg\\views\\users\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{601EC66E-9D3B-4673-BC77-34DB1287159A}|DBloginandreg\\DBloginandreg.csproj|solutionrelative:dbloginandreg\\views\\users\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{601EC66E-9D3B-4673-BC77-34DB1287159A}|DBloginandreg\\DBloginandreg.csproj|C:\\Users\\Orange\\Desktop\\MVC-Tasks\\Task6 7-29-2024\\DBloginandreg\\dbloginandreg\\views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{601EC66E-9D3B-4673-BC77-34DB1287159A}|DBloginandreg\\DBloginandreg.csproj|solutionrelative:dbloginandreg\\views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{601EC66E-9D3B-4673-BC77-34DB1287159A}|DBloginandreg\\DBloginandreg.csproj|C:\\Users\\Orange\\Desktop\\MVC-Tasks\\Task6 7-29-2024\\DBloginandreg\\dbloginandreg\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{601EC66E-9D3B-4673-BC77-34DB1287159A}|DBloginandreg\\DBloginandreg.csproj|solutionrelative:dbloginandreg\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{601EC66E-9D3B-4673-BC77-34DB1287159A}|DBloginandreg\\DBloginandreg.csproj|C:\\Users\\Orange\\Desktop\\MVC-Tasks\\Task6 7-29-2024\\DBloginandreg\\dbloginandreg\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{601EC66E-9D3B-4673-BC77-34DB1287159A}|DBloginandreg\\DBloginandreg.csproj|solutionrelative:dbloginandreg\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{601EC66E-9D3B-4673-BC77-34DB1287159A}|DBloginandreg\\DBloginandreg.csproj|C:\\Users\\Orange\\Desktop\\MVC-Tasks\\Task6 7-29-2024\\DBloginandreg\\dbloginandreg\\models\\user.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{601EC66E-9D3B-4673-BC77-34DB1287159A}|DBloginandreg\\DBloginandreg.csproj|solutionrelative:dbloginandreg\\models\\user.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{601EC66E-9D3B-4673-BC77-34DB1287159A}|DBloginandreg\\DBloginandreg.csproj|C:\\Users\\Orange\\Desktop\\MVC-Tasks\\Task6 7-29-2024\\DBloginandreg\\dbloginandreg\\views\\user\\addoredit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{601EC66E-9D3B-4673-BC77-34DB1287159A}|DBloginandreg\\DBloginandreg.csproj|solutionrelative:dbloginandreg\\views\\user\\addoredit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{601EC66E-9D3B-4673-BC77-34DB1287159A}|DBloginandreg\\DBloginandreg.csproj|C:\\Users\\Orange\\Desktop\\MVC-Tasks\\Task6 7-29-2024\\DBloginandreg\\dbloginandreg\\views\\users\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{601EC66E-9D3B-4673-BC77-34DB1287159A}|DBloginandreg\\DBloginandreg.csproj|solutionrelative:dbloginandreg\\views\\users\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{601EC66E-9D3B-4673-BC77-34DB1287159A}|DBloginandreg\\DBloginandreg.csproj|C:\\Users\\Orange\\Desktop\\MVC-Tasks\\Task6 7-29-2024\\DBloginandreg\\dbloginandreg\\models\\user1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{601EC66E-9D3B-4673-BC77-34DB1287159A}|DBloginandreg\\DBloginandreg.csproj|solutionrelative:dbloginandreg\\models\\user1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{601EC66E-9D3B-4673-BC77-34DB1287159A}|DBloginandreg\\DBloginandreg.csproj|C:\\Users\\Orange\\Desktop\\MVC-Tasks\\Task6 7-29-2024\\DBloginandreg\\dbloginandreg\\views\\users\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{601EC66E-9D3B-4673-BC77-34DB1287159A}|DBloginandreg\\DBloginandreg.csproj|solutionrelative:dbloginandreg\\views\\users\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{601EC66E-9D3B-4673-BC77-34DB1287159A}|DBloginandreg\\DBloginandreg.csproj|C:\\Users\\Orange\\Desktop\\MVC-Tasks\\Task6 7-29-2024\\DBloginandreg\\dbloginandreg\\models\\user.edmx.diagram||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{601EC66E-9D3B-4673-BC77-34DB1287159A}|DBloginandreg\\DBloginandreg.csproj|solutionrelative:dbloginandreg\\models\\user.edmx.diagram||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{601EC66E-9D3B-4673-BC77-34DB1287159A}|DBloginandreg\\DBloginandreg.csproj|C:\\Users\\Orange\\source\\repos\\DBloginandreg\\dbloginandreg\\models\\user.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{601EC66E-9D3B-4673-BC77-34DB1287159A}|DBloginandreg\\DBloginandreg.csproj|C:\\Users\\Orange\\Desktop\\MVC-Tasks\\Task6 7-29-2024\\DBloginandreg\\dbloginandreg\\models\\user.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{601EC66E-9D3B-4673-BC77-34DB1287159A}|DBloginandreg\\DBloginandreg.csproj|solutionrelative:dbloginandreg\\models\\user.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{601EC66E-9D3B-4673-BC77-34DB1287159A}|DBloginandreg\\DBloginandreg.csproj|C:\\Users\\Orange\\source\\repos\\DBloginandreg\\dbloginandreg\\models\\user.context.tt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{601EC66E-9D3B-4673-BC77-34DB1287159A}|DBloginandreg\\DBloginandreg.csproj|C:\\Users\\Orange\\Desktop\\MVC-Tasks\\Task6 7-29-2024\\DBloginandreg\\dbloginandreg\\models\\user.context.tt||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{601EC66E-9D3B-4673-BC77-34DB1287159A}|DBloginandreg\\DBloginandreg.csproj|solutionrelative:dbloginandreg\\models\\user.context.tt||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
@@ -94,7 +94,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 20,
           "Children": [
             {
               "$type": "Bookmark",
@@ -102,102 +102,111 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC-Tasks\\Task6 7-29-2024\\DBloginandreg\\DBloginandreg\\Models\\User.edmx",
+              "RelativeDocumentMoniker": "DBloginandreg\\Models\\User.edmx",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC-Tasks\\Task6 7-29-2024\\DBloginandreg\\DBloginandreg\\Models\\User.edmx [Diagram1]",
+              "RelativeToolTip": "DBloginandreg\\Models\\User.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-07-30T06:56:41.42Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
               "Title": "ResetPassword.cshtml",
-              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\DBloginandreg\\DBloginandreg\\Views\\User\\ResetPassword.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC-Tasks\\Task6 7-29-2024\\DBloginandreg\\DBloginandreg\\Views\\User\\ResetPassword.cshtml",
               "RelativeDocumentMoniker": "DBloginandreg\\Views\\User\\ResetPassword.cshtml",
-              "ToolTip": "C:\\Users\\Orange\\source\\repos\\DBloginandreg\\DBloginandreg\\Views\\User\\ResetPassword.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC-Tasks\\Task6 7-29-2024\\DBloginandreg\\DBloginandreg\\Views\\User\\ResetPassword.cshtml",
               "RelativeToolTip": "DBloginandreg\\Views\\User\\ResetPassword.cshtml",
-              "ViewState": "AQIAABIAAAAAAAAAAAAcwBgAAAA5AAAA",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAwwBgAAABaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-07-29T18:40:51.161Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\DBloginandreg\\DBloginandreg\\Views\\Users\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC-Tasks\\Task6 7-29-2024\\DBloginandreg\\DBloginandreg\\Views\\Users\\Index.cshtml",
               "RelativeDocumentMoniker": "DBloginandreg\\Views\\Users\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Orange\\source\\repos\\DBloginandreg\\DBloginandreg\\Views\\Users\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC-Tasks\\Task6 7-29-2024\\DBloginandreg\\DBloginandreg\\Views\\Users\\Index.cshtml",
               "RelativeToolTip": "DBloginandreg\\Views\\Users\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAEAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAA5AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-07-29T17:38:38.378Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\DBloginandreg\\DBloginandreg\\Views\\Users\\Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC-Tasks\\Task6 7-29-2024\\DBloginandreg\\DBloginandreg\\Views\\Users\\Details.cshtml",
               "RelativeDocumentMoniker": "DBloginandreg\\Views\\Users\\Details.cshtml",
-              "ToolTip": "C:\\Users\\Orange\\source\\repos\\DBloginandreg\\DBloginandreg\\Views\\Users\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC-Tasks\\Task6 7-29-2024\\DBloginandreg\\DBloginandreg\\Views\\Users\\Details.cshtml",
               "RelativeToolTip": "DBloginandreg\\Views\\Users\\Details.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-29T14:17:40.829Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-29T14:17:40.829Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\DBloginandreg\\DBloginandreg\\Views\\User\\Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC-Tasks\\Task6 7-29-2024\\DBloginandreg\\DBloginandreg\\Views\\User\\Edit.cshtml",
               "RelativeDocumentMoniker": "DBloginandreg\\Views\\User\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\Orange\\source\\repos\\DBloginandreg\\DBloginandreg\\Views\\User\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC-Tasks\\Task6 7-29-2024\\DBloginandreg\\DBloginandreg\\Views\\User\\Edit.cshtml",
               "RelativeToolTip": "DBloginandreg\\Views\\User\\Edit.cshtml",
-              "ViewState": "AQIAADcAAAAAAAAAAAAAAEkAAAAAAAAA",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAAEsAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-07-29T13:31:36.288Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Profile.cshtml",
-              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\DBloginandreg\\DBloginandreg\\Views\\User\\Profile.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC-Tasks\\Task6 7-29-2024\\DBloginandreg\\DBloginandreg\\Views\\User\\Profile.cshtml",
               "RelativeDocumentMoniker": "DBloginandreg\\Views\\User\\Profile.cshtml",
-              "ToolTip": "C:\\Users\\Orange\\source\\repos\\DBloginandreg\\DBloginandreg\\Views\\User\\Profile.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC-Tasks\\Task6 7-29-2024\\DBloginandreg\\DBloginandreg\\Views\\User\\Profile.cshtml",
               "RelativeToolTip": "DBloginandreg\\Views\\User\\Profile.cshtml",
-              "ViewState": "AQIAAC0AAAAAAAAAAAAAAEcAAAAAAAAA",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAADgAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-07-29T13:30:12.896Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\DBloginandreg\\DBloginandreg\\Views\\Users\\Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC-Tasks\\Task6 7-29-2024\\DBloginandreg\\DBloginandreg\\Views\\Users\\Edit.cshtml",
               "RelativeDocumentMoniker": "DBloginandreg\\Views\\Users\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\Orange\\source\\repos\\DBloginandreg\\DBloginandreg\\Views\\Users\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC-Tasks\\Task6 7-29-2024\\DBloginandreg\\DBloginandreg\\Views\\Users\\Edit.cshtml",
               "RelativeToolTip": "DBloginandreg\\Views\\Users\\Edit.cshtml",
               "ViewState": "AQIAACoAAAAAAAAAAAAAAFIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-29T13:23:00.078Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-29T13:23:00.078Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\DBloginandreg\\DBloginandreg\\Views\\User\\Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC-Tasks\\Task6 7-29-2024\\DBloginandreg\\DBloginandreg\\Views\\User\\Login.cshtml",
               "RelativeDocumentMoniker": "DBloginandreg\\Views\\User\\Login.cshtml",
-              "ToolTip": "C:\\Users\\Orange\\source\\repos\\DBloginandreg\\DBloginandreg\\Views\\User\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC-Tasks\\Task6 7-29-2024\\DBloginandreg\\DBloginandreg\\Views\\User\\Login.cshtml",
               "RelativeToolTip": "DBloginandreg\\Views\\User\\Login.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-29T10:25:15.284Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-29T10:25:15.284Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\DBloginandreg\\DBloginandreg\\Views\\Users\\Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC-Tasks\\Task6 7-29-2024\\DBloginandreg\\DBloginandreg\\Views\\Users\\Create.cshtml",
               "RelativeDocumentMoniker": "DBloginandreg\\Views\\Users\\Create.cshtml",
-              "ToolTip": "C:\\Users\\Orange\\source\\repos\\DBloginandreg\\DBloginandreg\\Views\\Users\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC-Tasks\\Task6 7-29-2024\\DBloginandreg\\DBloginandreg\\Views\\Users\\Create.cshtml",
               "RelativeToolTip": "DBloginandreg\\Views\\Users\\Create.cshtml",
               "ViewState": "AQIAABIAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -205,37 +214,35 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "UsersController.cs",
-              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\DBloginandreg\\DBloginandreg\\Controllers\\UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC-Tasks\\Task6 7-29-2024\\DBloginandreg\\DBloginandreg\\Controllers\\UsersController.cs",
               "RelativeDocumentMoniker": "DBloginandreg\\Controllers\\UsersController.cs",
-              "ToolTip": "C:\\Users\\Orange\\source\\repos\\DBloginandreg\\DBloginandreg\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC-Tasks\\Task6 7-29-2024\\DBloginandreg\\DBloginandreg\\Controllers\\UsersController.cs",
               "RelativeToolTip": "DBloginandreg\\Controllers\\UsersController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-29T10:07:09.532Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-29T10:07:09.532Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "User.Context.cs",
-              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\DBloginandreg\\DBloginandreg\\Models\\User.Context.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC-Tasks\\Task6 7-29-2024\\DBloginandreg\\DBloginandreg\\Models\\User.Context.cs",
               "RelativeDocumentMoniker": "DBloginandreg\\Models\\User.Context.cs",
-              "ToolTip": "C:\\Users\\Orange\\source\\repos\\DBloginandreg\\DBloginandreg\\Models\\User.Context.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC-Tasks\\Task6 7-29-2024\\DBloginandreg\\DBloginandreg\\Models\\User.Context.cs",
               "RelativeToolTip": "DBloginandreg\\Models\\User.Context.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-29T10:04:24.942Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-29T10:04:24.942Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 20,
               "Title": "User.Context.tt",
-              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\DBloginandreg\\DBloginandreg\\Models\\User.Context.tt",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC-Tasks\\Task6 7-29-2024\\DBloginandreg\\DBloginandreg\\Models\\User.Context.tt",
               "RelativeDocumentMoniker": "DBloginandreg\\Models\\User.Context.tt",
-              "ToolTip": "C:\\Users\\Orange\\source\\repos\\DBloginandreg\\DBloginandreg\\Models\\User.Context.tt",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC-Tasks\\Task6 7-29-2024\\DBloginandreg\\DBloginandreg\\Models\\User.Context.tt",
               "RelativeToolTip": "DBloginandreg\\Models\\User.Context.tt",
               "ViewState": "AQIAAC8AAAAAAAAAAADgv0AAAAA2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
@@ -245,9 +252,9 @@
               "$type": "Document",
               "DocumentIndex": 19,
               "Title": "User.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\DBloginandreg\\DBloginandreg\\Models\\User.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC-Tasks\\Task6 7-29-2024\\DBloginandreg\\DBloginandreg\\Models\\User.Designer.cs",
               "RelativeDocumentMoniker": "DBloginandreg\\Models\\User.Designer.cs",
-              "ToolTip": "C:\\Users\\Orange\\source\\repos\\DBloginandreg\\DBloginandreg\\Models\\User.Designer.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC-Tasks\\Task6 7-29-2024\\DBloginandreg\\DBloginandreg\\Models\\User.Designer.cs",
               "RelativeToolTip": "DBloginandreg\\Models\\User.Designer.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -257,114 +264,97 @@
               "$type": "Document",
               "DocumentIndex": 18,
               "Title": "User.edmx.diagram",
-              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\DBloginandreg\\DBloginandreg\\Models\\User.edmx.diagram",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC-Tasks\\Task6 7-29-2024\\DBloginandreg\\DBloginandreg\\Models\\User.edmx.diagram",
               "RelativeDocumentMoniker": "DBloginandreg\\Models\\User.edmx.diagram",
-              "ToolTip": "C:\\Users\\Orange\\source\\repos\\DBloginandreg\\DBloginandreg\\Models\\User.edmx.diagram",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC-Tasks\\Task6 7-29-2024\\DBloginandreg\\DBloginandreg\\Models\\User.edmx.diagram",
               "RelativeToolTip": "DBloginandreg\\Models\\User.edmx.diagram",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-07-29T09:13:58.066Z"
+              "WhenOpened": "2024-07-29T09:13:58.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "User1.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC-Tasks\\Task6 7-29-2024\\DBloginandreg\\DBloginandreg\\Models\\User1.cs",
+              "RelativeDocumentMoniker": "DBloginandreg\\Models\\User1.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC-Tasks\\Task6 7-29-2024\\DBloginandreg\\DBloginandreg\\Models\\User1.cs",
+              "RelativeToolTip": "DBloginandreg\\Models\\User1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T09:13:55.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC-Tasks\\Task6 7-29-2024\\DBloginandreg\\DBloginandreg\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "DBloginandreg\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC-Tasks\\Task6 7-29-2024\\DBloginandreg\\DBloginandreg\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "DBloginandreg\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T09:09:37.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC-Tasks\\Task6 7-29-2024\\DBloginandreg\\DBloginandreg\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "DBloginandreg\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC-Tasks\\Task6 7-29-2024\\DBloginandreg\\DBloginandreg\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "DBloginandreg\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABoAAAAAAAAAAAAcwCEAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-29T08:43:28.672Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
-              "Title": "User.tt",
-              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\DBloginandreg\\DBloginandreg\\Models\\User.tt",
-              "RelativeDocumentMoniker": "DBloginandreg\\Models\\User.tt",
-              "ToolTip": "C:\\Users\\Orange\\source\\repos\\DBloginandreg\\DBloginandreg\\Models\\User.tt",
-              "RelativeToolTip": "DBloginandreg\\Models\\User.tt",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-07-29T09:13:56.974Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "User1.cs",
-              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\DBloginandreg\\DBloginandreg\\Models\\User1.cs",
-              "RelativeDocumentMoniker": "DBloginandreg\\Models\\User1.cs",
-              "ToolTip": "C:\\Users\\Orange\\source\\repos\\DBloginandreg\\DBloginandreg\\Models\\User1.cs",
-              "RelativeToolTip": "DBloginandreg\\Models\\User1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-29T09:13:55.409Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\DBloginandreg\\DBloginandreg\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "DBloginandreg\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\Orange\\source\\repos\\DBloginandreg\\DBloginandreg\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "DBloginandreg\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-29T09:09:37.045Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\DBloginandreg\\DBloginandreg\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "DBloginandreg\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Orange\\source\\repos\\DBloginandreg\\DBloginandreg\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "DBloginandreg\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAABoAAAAAAAAAAAAcwCEAAAA/AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-29T08:43:28.672Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
               "Title": "AddOrEdit.cshtml",
-              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\DBloginandreg\\DBloginandreg\\Views\\User\\AddOrEdit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC-Tasks\\Task6 7-29-2024\\DBloginandreg\\DBloginandreg\\Views\\User\\AddOrEdit.cshtml",
               "RelativeDocumentMoniker": "DBloginandreg\\Views\\User\\AddOrEdit.cshtml",
-              "ToolTip": "C:\\Users\\Orange\\source\\repos\\DBloginandreg\\DBloginandreg\\Views\\User\\AddOrEdit.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC-Tasks\\Task6 7-29-2024\\DBloginandreg\\DBloginandreg\\Views\\User\\AddOrEdit.cshtml",
               "RelativeToolTip": "DBloginandreg\\Views\\User\\AddOrEdit.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAABjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-29T08:39:09.01Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-29T08:39:09.01Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\DBloginandreg\\DBloginandreg\\Models\\User.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC-Tasks\\Task6 7-29-2024\\DBloginandreg\\DBloginandreg\\Models\\User.cs",
               "RelativeDocumentMoniker": "DBloginandreg\\Models\\User.cs",
-              "ToolTip": "C:\\Users\\Orange\\source\\repos\\DBloginandreg\\DBloginandreg\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC-Tasks\\Task6 7-29-2024\\DBloginandreg\\DBloginandreg\\Models\\User.cs",
               "RelativeToolTip": "DBloginandreg\\Models\\User.cs",
               "ViewState": "AQIAAA4AAAAAAAAAAAAswCIAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-29T08:36:57.423Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-29T08:36:57.423Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "UserController.cs",
-              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\DBloginandreg\\DBloginandreg\\Controllers\\UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC-Tasks\\Task6 7-29-2024\\DBloginandreg\\DBloginandreg\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "DBloginandreg\\Controllers\\UserController.cs",
-              "ToolTip": "C:\\Users\\Orange\\source\\repos\\DBloginandreg\\DBloginandreg\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC-Tasks\\Task6 7-29-2024\\DBloginandreg\\DBloginandreg\\Controllers\\UserController.cs",
               "RelativeToolTip": "DBloginandreg\\Controllers\\UserController.cs",
-              "ViewState": "AQIAALoAAAAAAAAAAAAowNMAAAAoAAAA",
+              "ViewState": "AQIAAHoAAAAAAAAAAAAmwNcAAAA9AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-29T08:36:04.993Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 1,
               "Title": "Web.config",
-              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\DBloginandreg\\DBloginandreg\\Web.config",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC-Tasks\\Task6 7-29-2024\\DBloginandreg\\DBloginandreg\\Web.config",
               "RelativeDocumentMoniker": "DBloginandreg\\Web.config",
-              "ToolTip": "C:\\Users\\Orange\\source\\repos\\DBloginandreg\\DBloginandreg\\Web.config",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC-Tasks\\Task6 7-29-2024\\DBloginandreg\\DBloginandreg\\Web.config",
               "RelativeToolTip": "DBloginandreg\\Web.config",
-              "ViewState": "AQIAADcAAAAAAAAAAAAAAEYAAAAAAAAA",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAA8AAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
               "WhenOpened": "2024-07-29T08:33:43.223Z",
               "EditorCaption": ""

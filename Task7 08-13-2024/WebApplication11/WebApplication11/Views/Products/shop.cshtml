@@ -1,0 +1,31 @@
+﻿@{
+    ViewBag.Title = "Shop";
+    var products = ViewBag.Products as List<List<object>>;
+}
+
+<h2>Shop</h2>
+
+<div class="row">
+    @if (products != null && products.Count > 0)
+    {
+        foreach (var product in products)
+        {
+            <div class="col-md-4">
+                <div class="card" style="width: 18rem; margin-bottom: 20px;">
+                    <img src="@product[1]" class="card-img-top" alt="Product Image" />
+                    <div class="card-body">
+                        <h5 class="card-title">@product[0]</h5> 
+                        <p class="card-text">Price: @(product[2]) JOD</p>
+                        <button class="btn btn-primary" )>Buy</button>
+                        <button class="btn btn-secondary" )">Add to Cart</button>
+                    </div>
+                </div>
+            </div>
+        }
+    }
+    else
+    {
+        <p>No products available.</p>
+    }
+</div>
+

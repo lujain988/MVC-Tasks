@@ -157,6 +157,9 @@ namespace DBloginandreg.Controllers
                 return RedirectToAction("Profile");
             }
 
+
+
+
             return View(user);
         }
 
