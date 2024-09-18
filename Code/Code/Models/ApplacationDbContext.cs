@@ -22,11 +22,11 @@ namespace Code.Models
     {
         modelBuilder.Conventions.Remove<System.Data.Entity.ModelConfiguration.Conventions.PluralizingTableNameConvention>();
 
-        modelBuilder.Entity<Students>()
-            .HasOptional(sd => sd.StudentDetails)
-            .WithRequired(s => s.Students);
+            modelBuilder.Entity<Students>()
+           .HasOptional(s => s.StudentDetails) 
+           .WithRequired(sd => sd.Students);
 
-        modelBuilder.Entity<Teacher>()
+            modelBuilder.Entity<Teacher>()
             .HasMany(t => t.Courses)
             .WithRequired(c => c.teacher)
             .HasForeignKey(c => c.TeacherID);

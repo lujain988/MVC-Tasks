@@ -139,6 +139,10 @@
     <Compile Include="Migrations\202409181423337_newData.Designer.cs">
       <DependentUpon>202409181423337_newData.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\202409181735416_try.cs" />
+    <Compile Include="Migrations\202409181735416_try.Designer.cs">
+      <DependentUpon>202409181735416_try.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\ApplacationDbContext.cs" />
     <Compile Include="Models\Asign.cs" />
@@ -253,6 +257,9 @@
   <ItemGroup>
     <EmbeddedResource Include="Migrations\202409181423337_newData.resx">
       <DependentUpon>202409181423337_newData.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202409181735416_try.resx">
+      <DependentUpon>202409181735416_try.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>

@@ -19,11 +19,8 @@ namespace Code.Models
         [Required]
         public int Age { get; set; }
 
-        // Foreign Key to studentDetails
-        [ForeignKey("StudentDetails")]
-        public int StudentDetailsID { get; set; }
-
-        // Navigation Property
+        // Navigation Property for studentDetails
         public virtual studentDetails StudentDetails { get; set; }
     }
+
 }
