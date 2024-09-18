@@ -162,10 +162,9 @@ C:\Users\Orange\Desktop\MVC-Tasks\CodeFirst\CodeFirst\bin\Newtonsoft.Json.xml
 C:\Users\Orange\Desktop\MVC-Tasks\CodeFirst\CodeFirst\bin\Antlr3.Runtime.pdb
 C:\Users\Orange\Desktop\MVC-Tasks\CodeFirst\CodeFirst\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 C:\Users\Orange\Desktop\MVC-Tasks\CodeFirst\CodeFirst\obj\Debug\CodeFirst.csproj.AssemblyReference.cache
-C:\Users\Orange\Desktop\MVC-Tasks\CodeFirst\CodeFirst\obj\Debug\CodeFirst.Migrations.InitialCreate.resources
+C:\Users\Orange\Desktop\MVC-Tasks\CodeFirst\CodeFirst\obj\Debug\CodeFirst.Migrations.InitialMigration.resources
 C:\Users\Orange\Desktop\MVC-Tasks\CodeFirst\CodeFirst\obj\Debug\CodeFirst.csproj.GenerateResource.cache
 C:\Users\Orange\Desktop\MVC-Tasks\CodeFirst\CodeFirst\obj\Debug\CodeFirst.csproj.CoreCompileInputs.cache
 C:\Users\Orange\Desktop\MVC-Tasks\CodeFirst\CodeFirst\obj\Debug\CodeFirst.csproj.Up2Date
 C:\Users\Orange\Desktop\MVC-Tasks\CodeFirst\CodeFirst\obj\Debug\CodeFirst.dll
 C:\Users\Orange\Desktop\MVC-Tasks\CodeFirst\CodeFirst\obj\Debug\CodeFirst.pdb
-C:\Users\Orange\Desktop\MVC-Tasks\CodeFirst\CodeFirst\obj\Debug\CodeFirst.Migrations.inaital.resources

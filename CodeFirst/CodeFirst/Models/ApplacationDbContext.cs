@@ -1,26 +1,31 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using CodeFirst.Models;
 using System.Data.Entity;
-using System.Linq;
-using System.Web;
 
-namespace CodeFirst.Models
+public class ApplacationDbContext : DbContext
 {
-    public class ApplacationDbContext : DbContext
+    public ApplacationDbContext() : base("SchoolEntities")
     {
-        public ApplacationDbContext() : base("SchoolEntities")
-        {
-            
-        }
-        public DbSet<Teacher> teachers { get; set; }
-        public DbSet<Students4> students4 { get; set; }
-        public DbSet<Asign> asigns { get; set; }
-          protected override void OnModelCreating(DbModelBuilder modelBuilder)
-        {
-            modelBuilder.Conventions.Remove<System.Data.Entity.ModelConfiguration.Conventions.PluralizingTableNameConvention>();
+    }
 
-            base.OnModelCreating(modelBuilder);
-        }
+    public DbSet<Teacher> Teachers { get; set; }
+    public DbSet<Students> Students { get; set; }
+    public DbSet<Asign> Asigns { get; set; }
+    public DbSet<studentDetails> StudentDetails { get; set; }
+    public DbSet<course> Courses { get; set; }
 
+    protected override void OnModelCreating(DbModelBuilder modelBuilder)
+    {
+        modelBuilder.Conventions.Remove<System.Data.Entity.ModelConfiguration.Conventions.PluralizingTableNameConvention>();
+
+        modelBuilder.Entity<Students>()
+            .HasOptional(sd => sd.StudentDetails)
+            .WithRequired(s => s.Students);
+
+        modelBuilder.Entity<Teacher>()
+            .HasMany(t => t.Courses)
+            .WithRequired(c => c.teacher)
+            .HasForeignKey(c => c.TeacherID);
+
+        base.OnModelCreating(modelBuilder);
     }
 }
