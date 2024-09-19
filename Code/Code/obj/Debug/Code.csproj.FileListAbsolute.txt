@@ -163,9 +163,11 @@ C:\Users\Orange\Desktop\MVC-Tasks\Code\Code\bin\Antlr3.Runtime.pdb
 C:\Users\Orange\Desktop\MVC-Tasks\Code\Code\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 C:\Users\Orange\Desktop\MVC-Tasks\Code\Code\obj\Debug\Code.csproj.AssemblyReference.cache
 C:\Users\Orange\Desktop\MVC-Tasks\Code\Code\obj\Debug\Code.Migrations.newData.resources
+C:\Users\Orange\Desktop\MVC-Tasks\Code\Code\obj\Debug\Code.Migrations._try.resources
+C:\Users\Orange\Desktop\MVC-Tasks\Code\Code\obj\Debug\Code.Migrations.newone.resources
+C:\Users\Orange\Desktop\MVC-Tasks\Code\Code\obj\Debug\Code.Migrations.what.resources
 C:\Users\Orange\Desktop\MVC-Tasks\Code\Code\obj\Debug\Code.csproj.GenerateResource.cache
 C:\Users\Orange\Desktop\MVC-Tasks\Code\Code\obj\Debug\Code.csproj.CoreCompileInputs.cache
 C:\Users\Orange\Desktop\MVC-Tasks\Code\Code\obj\Debug\Code.csproj.Up2Date
 C:\Users\Orange\Desktop\MVC-Tasks\Code\Code\obj\Debug\Code.dll
 C:\Users\Orange\Desktop\MVC-Tasks\Code\Code\obj\Debug\Code.pdb
-C:\Users\Orange\Desktop\MVC-Tasks\Code\Code\obj\Debug\Code.Migrations._try.resources

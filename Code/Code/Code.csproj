@@ -143,6 +143,14 @@
     <Compile Include="Migrations\202409181735416_try.Designer.cs">
       <DependentUpon>202409181735416_try.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\202409190849299_newone.cs" />
+    <Compile Include="Migrations\202409190849299_newone.Designer.cs">
+      <DependentUpon>202409190849299_newone.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202409190851254_what.cs" />
+    <Compile Include="Migrations\202409190851254_what.Designer.cs">
+      <DependentUpon>202409190851254_what.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\ApplacationDbContext.cs" />
     <Compile Include="Models\Asign.cs" />
@@ -216,13 +224,13 @@
     <Content Include="Views\Students\Create.cshtml" />
     <Content Include="Views\Students\Delete.cshtml" />
     <Content Include="Views\Students\Details.cshtml" />
-    <Content Include="Views\Students\Edit.cshtml" />
     <Content Include="Views\Students\Index.cshtml" />
     <Content Include="Views\studentDetails\Create.cshtml" />
     <Content Include="Views\studentDetails\Delete.cshtml" />
     <Content Include="Views\studentDetails\Details.cshtml" />
     <Content Include="Views\studentDetails\Edit.cshtml" />
     <Content Include="Views\studentDetails\Index.cshtml" />
+    <Content Include="Views\Students\Edit.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
@@ -260,6 +268,12 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\202409181735416_try.resx">
       <DependentUpon>202409181735416_try.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202409190849299_newone.resx">
+      <DependentUpon>202409190849299_newone.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202409190851254_what.resx">
+      <DependentUpon>202409190851254_what.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>

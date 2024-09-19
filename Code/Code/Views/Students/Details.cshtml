@@ -10,14 +10,7 @@
     <h4>Students</h4>
     <hr />
     <dl class="dl-horizontal">
-        <dt>
-            @Html.DisplayNameFor(model => model.StudentDetails.FatherName)
-        </dt>
-
-        <dd>
-            @Html.DisplayFor(model => model.StudentDetails.FatherName)
-        </dd>
-
+        <!-- Display Student Details -->
         <dt>
             @Html.DisplayNameFor(model => model.StudentName)
         </dt>
@@ -34,6 +27,33 @@
             @Html.DisplayFor(model => model.Age)
         </dd>
 
+        <!-- Display Student Details (Nested) -->
+        @if (Model.StudentDetails != null)
+        {
+            <dt>
+                @Html.DisplayNameFor(model => model.StudentDetails.FatherName)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.StudentDetails.FatherName)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.StudentDetails.MotherName)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.StudentDetails.MotherName)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.StudentDetails.NumOfSiblings)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.StudentDetails.NumOfSiblings)
+            </dd>
+        }
     </dl>
 </div>
 <p>

@@ -20,7 +20,7 @@ namespace Code.Models
         public int Age { get; set; }
 
         // Navigation Property for studentDetails
-        public virtual studentDetails StudentDetails { get; set; }
+        public virtual studentDetails StudentDetails { get; set; } 
     }
 
 }

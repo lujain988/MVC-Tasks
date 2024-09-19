@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Data;
 using System.Data.Entity;
+using System.Data.Entity.Infrastructure;
 using System.Linq;
 using System.Net;
 using System.Web;
@@ -28,7 +29,7 @@ namespace Code.Controllers
             {
                 return new HttpStatusCodeResult(HttpStatusCode.BadRequest);
             }
-            Students students = db.Students.Find(id);
+            Students students = db.Students.Include(s => s.StudentDetails).SingleOrDefault(s => s.ID == id);
             if (students == null)
             {
                 return HttpNotFound();
@@ -39,16 +40,14 @@ namespace Code.Controllers
         // GET: Students/Create
         public ActionResult Create()
         {
-            ViewBag.ID = new SelectList(db.StudentDetails, "ID", "FatherName");
+            ViewBag.StudentDetailsID = new SelectList(db.StudentDetails, "ID", "FatherName");
             return View();
         }
 
         // POST: Students/Create
-        // To protect from overposting attacks, enable the specific properties you want to bind to, for 
-        // more details see https://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Create([Bind(Include = "ID,StudentName,Age")] Students students)
+        public ActionResult Create([Bind(Include = "ID,StudentName,Age,StudentDetailsID")] Students students)
         {
             if (ModelState.IsValid)
             {
@@ -56,43 +55,87 @@ namespace Code.Controllers
                 db.SaveChanges();
                 return RedirectToAction("Index");
             }
-
-            ViewBag.ID = new SelectList(db.StudentDetails, "ID", "FatherName", students.ID);
+            ViewBag.StudentDetailsID = new SelectList(db.StudentDetails, "ID", "FatherName", students.ID);
             return View(students);
         }
 
-        // GET: Students/Edit/5
         public ActionResult Edit(int? id)
         {
             if (id == null)
             {
                 return new HttpStatusCodeResult(HttpStatusCode.BadRequest);
             }
-            Students students = db.Students.Find(id);
-            if (students == null)
+
+            // Retrieve the student along with related studentDetails
+            var student = db.Students.Include(s => s.StudentDetails).SingleOrDefault(s => s.ID == id);
+
+            if (student == null)
             {
                 return HttpNotFound();
             }
-            ViewBag.ID = new SelectList(db.StudentDetails, "ID", "FatherName", students.ID);
-            return View(students);
+
+            // Pass the student model to the view
+            return View(student);
         }
 
-        // POST: Students/Edit/5
-        // To protect from overposting attacks, enable the specific properties you want to bind to, for 
-        // more details see https://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Edit([Bind(Include = "ID,StudentName,Age")] Students students)
+        public ActionResult Edit(Students student)
         {
             if (ModelState.IsValid)
             {
-                db.Entry(students).State = EntityState.Modified;
-                db.SaveChanges();
+                // Retrieve the existing student including its details
+                var existingStudent = db.Students.Include(s => s.StudentDetails).SingleOrDefault(s => s.ID == student.ID);
+
+                if (existingStudent == null)
+                {
+                    return HttpNotFound();
+                }
+
+                // Update Student properties
+                existingStudent.StudentName = student.StudentName;
+                existingStudent.Age = student.Age;
+
+                // Update or add StudentDetails
+                if (existingStudent.StudentDetails == null)
+                {
+                    existingStudent.StudentDetails = new studentDetails
+                    {
+                        ID = existingStudent.ID
+                    };
+                }
+
+                existingStudent.StudentDetails.FatherName = student.StudentDetails.FatherName;
+                existingStudent.StudentDetails.MotherName = student.StudentDetails.MotherName;
+                existingStudent.StudentDetails.NumOfSiblings = student.StudentDetails.NumOfSiblings;
+
+                // Attach the entities and set their state to modified
+                db.Entry(existingStudent).State = EntityState.Modified;
+                db.Entry(existingStudent.StudentDetails).State = EntityState.Modified;
+
+                try
+                {
+                    db.SaveChanges();
+                }
+                catch (DbUpdateConcurrencyException)
+                {
+                    // Handle concurrency issue
+                    ModelState.AddModelError("", "Unable to save changes. The record may have been modified or deleted.");
+                    return View(student);
+                }
+
                 return RedirectToAction("Index");
             }
-            ViewBag.ID = new SelectList(db.StudentDetails, "ID", "FatherName", students.ID);
-            return View(students);
+
+            return View(student);
         }
+
+
+
+
+
+
+
 
         // GET: Students/Delete/5
         public ActionResult Delete(int? id)

@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Data;
 using System.Data.Entity;
+using System.Data.Entity.Infrastructure;
 using System.Linq;
 using System.Net;
 using System.Web;
@@ -65,7 +66,7 @@ namespace Code.Controllers
             {
                 return new HttpStatusCodeResult(HttpStatusCode.BadRequest);
             }
-            Teacher teacher = db.Teachers.Find(id);
+            Teacher teacher = db.Teachers.Include(t => t.Courses).SingleOrDefault(t => t.ID == id);
             if (teacher == null)
             {
                 return HttpNotFound();
@@ -73,21 +74,66 @@ namespace Code.Controllers
             return View(teacher);
         }
 
-        // POST: Teachers/Edit/5
-        // To protect from overposting attacks, enable the specific properties you want to bind to, for 
-        // more details see https://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Edit([Bind(Include = "ID,TeacherName,age")] Teacher teacher)
+        public ActionResult Edit(Teacher teacher, int[] selectedCourses)
         {
             if (ModelState.IsValid)
             {
-                db.Entry(teacher).State = EntityState.Modified;
-                db.SaveChanges();
+                var existingTeacher = db.Teachers.Include(t => t.Courses).SingleOrDefault(t => t.ID == teacher.ID);
+
+                if (existingTeacher == null)
+                {
+                    return HttpNotFound();
+                }
+
+                // Update Teacher properties
+                existingTeacher.TeacherName = teacher.TeacherName;
+                existingTeacher.age = teacher.age;
+
+                // Track courses that should be removed
+                var coursesToRemove = existingTeacher.Courses
+                    .Where(c => !selectedCourses.Contains(c.ID))
+                    .ToList();
+
+                // Remove courses
+                foreach (var course in coursesToRemove)
+                {
+                    existingTeacher.Courses.Remove(course);
+                }
+
+                // Add new selected courses
+                foreach (var courseId in selectedCourses)
+                {
+                    if (!existingTeacher.Courses.Any(c => c.ID == courseId))
+                    {
+                        var course = db.Courses.Find(courseId);
+                        if (course != null)
+                        {
+                            existingTeacher.Courses.Add(course);
+                        }
+                    }
+                }
+
+                // Update the state and save changes
+                db.Entry(existingTeacher).State = EntityState.Modified;
+                try
+                {
+                    db.SaveChanges();
+                }
+                catch (DbUpdateConcurrencyException)
+                {
+                    ModelState.AddModelError("", "Unable to save changes. The record may have been modified or deleted.");
+                    return View(teacher);
+                }
+
                 return RedirectToAction("Index");
             }
+
             return View(teacher);
         }
+
+
 
         // GET: Teachers/Delete/5
         public ActionResult Delete(int? id)
